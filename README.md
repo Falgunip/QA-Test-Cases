@@ -35,13 +35,9 @@ The testing focuses on validating the behavior and performance of the Global Sea
 
 ## 📂 Repository Structure
 
-/test-cases
-
+/qa-test-cases/
+ global-search/
 * global_search_test_cases.xlsx
-
-/test-data
-
-* sample_search_inputs.xlsx
 
 ---
 
